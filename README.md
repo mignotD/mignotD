@@ -31,7 +31,7 @@ I build scalable web applications, robust backend systems, and blockchain soluti
 <a href="https://www.linkedin.com/in/mignot-dansa-683870268/" target="blank">
   <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=14B8A6" />
 </a>
-<a href="mailto:mignotdansa@gmail.com">
+<a href="mailto:www.mignotdansa@gmail.com">
   <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=14B8A6" />
 </a>
 </p>
