@@ -5,7 +5,7 @@
 </p>
 
 I’m a **Software Engineer** specializing in **full-stack development** and **AI-driven architectures**.  
-I design and build scalable web applications, robust computer vision pipelines, and secure decentralized validation systems focused on **security, performance, and cross-functional reliability**.
+I design and build scalable web applications,and secure decentralized validation systems focused on **security, performance, and cross-functional reliability**.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=14B8A6&height=2&section=header" width="100%"/>
