@@ -1,11 +1,11 @@
 # 👋 Hi, I'm Mignot Dansa
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&width=600&lines=Full-Stack+%26+Blockchain+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=14B8A6&width=600&lines=Full-Stack+Developer+%26+AI+Systems+Engineer" alt="Typing SVG" />
 </p>
 
-I’m a **Software Engineer** specializing in **full-stack development** and **blockchain engineering**.  
-I build scalable web applications, robust backend systems, and blockchain solutions using smart contracts focused on **security, performance, and reliability**.
+I’m a **Software Engineer** specializing in **full-stack development** and **AI-driven architectures**.  
+I design and build scalable web applications, robust computer vision pipelines, and secure decentralized validation systems focused on **security, performance, and cross-functional reliability**.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=14B8A6&height=2&section=header" width="100%"/>
@@ -15,7 +15,7 @@ I build scalable web applications, robust backend systems, and blockchain soluti
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,react,nextjs,ts,js,nodejs,express,py,tailwind,mongodb,postgres,docker,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,express,fastapi,postgres,mongodb,docker,linux,git&theme=dark" />
   </a>
 </p>
 
